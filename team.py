@@ -4,7 +4,7 @@ def greet():
 
 
 def farewell():
-    print("Bye, Have a good day and see you later  wow you are gere")
+    print("Bye, Have a good day and see you later  wow you are gere   these are the changes")
 greet()
 farewell()
 
